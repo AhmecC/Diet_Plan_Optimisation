@@ -1,0 +1,76 @@
+remapping = {
+    'Smoothies' : 'Dessert Drink','Shakes' : 'Dessert Drink',
+    'Savory Pies' : 'Pie',
+    'Ham' : 'Pork',
+    'Chicken' : 'Poultry',
+    'Apple' : 'Fruit', 'Oranges' : 'Fruit', 'Pineapple' : 'Fruit',
+    'Quick Breads' : 'Breads', 'Yeast Breads' : 'Breads',
+    'Brown Rice' : 'Rice', 'White Rice' : 'Rice', 'Long Grain Rice' : 'Rice',
+    'Pasta Shells' : 'Pasta', 'Penne' : 'Pasta', 'Spaghetti' : 'Pasta',
+    'Yam/Sweet Potato' : 'Potato',
+    'Drop Cookies' : 'Dessert',
+    'Cauliflower' : 'Vegetable', 'Greens' : 'Vegetable', 'Lemon' : 'Vegetable', 'Onions' : 'Vegetable', 'Peppers' : 'Vegetable', 'Salad Dressings' : 'Vegetable', 'Spinach' : 'Vegetable',
+    'Veal' : 'Cow', 'Roast Beef' : 'Cow',
+    'Stock' : 'Sauce', 'Sauces' : 'Sauce', 'Clear Soup' : 'Sauce',
+    'Punch Beverage' : 'Beverages',
+    'Black Beans' : 'Beans',
+    'Chicken Breast': 'Chicken', 'Chicken Thigh & Leg': 'Chicken', 'Whole Chicken':'Chicken',
+    'Frozen Desserts': 'Dessert', 'Bar Cookie': 'Dessert', 'Cheesecake':'Dessert', 'Scones':'Dessert', 'Tarts':'Dessert'}
+
+
+
+# >>> Lists were generated from ChatGPT
+
+gluten_ingredients = ["Wheat flour", "Whole wheat flour", "Semolina", "Durum wheat", "Wheat bran",
+    "Wheat germ", "Wheat starch", "Bulgur", "Farina", "Barley", "Barley flour",
+    "Barley malt", "Barley extract", "Rye", "Rye flour", "Rye malt", "Spelt",
+    "Kamut", "Triticale", "Couscous", "Einkorn", "Farro", "Graham flour",
+    "Modified food starch", "Hydrolyzed wheat protein", "Wheat-based thickeners",
+    "Wheat-based maltodextrin", "Bread", "Pasta", "Cakes", "Cookies",
+    "Pastries", "Pizza crust", "Beer", "Sauces and gravies", "Salad dressings", "Soups"]
+
+dairy_ingredients = ["Milk", "Buttermilk", "Cream", "Sour cream", "Yogurt", "Cheese",
+    "Cottage cheese", "Butter", "Ghee", "Whey", "Lactose", "Lactulose",
+    "Lactic acid", "Casein", "Caseinate", "Milk protein concentrate",
+    "Milk powder", "Evaporated milk", "Condensed milk", "Non-fat dry milk",
+    "Dry milk solids", "Malted milk", "Milk fat", "Milk solids",
+    "Milk solids-not-fat", "Skim milk", "Half-and-half", "Processed cheese",
+    "Processed cheese food", "Processed cheese spread", "Cheese flavor",
+    "Cheese powder", "Cheese culture", "Curds", "Whey protein",
+    "Whey protein concentrate", "Whey protein isolate"]
+
+meat_ingredients = ["Beef", "Chicken", "Lamb", "Goat", "Turkey", "Pork", "Duck",
+    "Bison", "Deer", "Venison", "Rabbit", "Quail", "Grouse", "Partridge",
+    "Kangaroo", "Elk", "Wild boar", "Buffalo", "Snail", "Turtle",
+    "Game meats", "Liver", "Heart", "Kidneys", "Bacon", "Ham", "Salami",
+    "Pepperoni", "Jerky", "Hot dogs", "Processed meats", "Cured meats", "Canned meats"]
+
+seafood_ingredients = ["Fish (various types)", "Salmon", "Tuna", "Cod", "Haddock", "Trout",
+    "Mackerel", "Sardines", "Anchovies", "Shrimp", "Prawns", "Crab",
+    "Lobster", "Crayfish", "Scallops", "Clams", "Mussels", "Oysters",
+    "Squid", "Octopus", "Cuttlefish", "Abalone", "Sea urchin", "Eel",
+    "Herring", "Surimi (imitation crab/seafood)", "Fish roe (caviar)",
+    "Fish sauce (various types)", "Fish derivatives in processed foods",
+    "Seafood flavorings and extracts", "Canned seafood", "Seafood by-products"]
+
+egg_ingredients = ["Whole egg", "Egg white", "Egg yolk", "Egg powder", "Dried egg",
+    "Liquid egg", "Egg albumen", "Egg substitute", "Egg replacer",
+    "Egg solids", "Egg derivatives", "Egg-based emulsifiers",
+    "Mayonnaise", "Aioli", "Custard", "Pudding", "Quiche",
+    "Baked goods containing eggs", "Egg noodles", "Egg-based sauces and dressings",
+    "Egg wash (used for glazing baked goods)", "Egg-based flavorings and colorings",
+    "Egg by-products", "Lecithin (can be derived from eggs)", "Lecithin derivatives"]
+
+haram_ingredients = [
+    "Pork meat", "Bacon", "Ham", "Pork", "Alcohol", "Alcoholic", "Gelatin", "Rennet", 
+    'Wine', 'Beer', 'Vodka', 'Rum', 'Cocktail', 'Whiskey', 'Tequila', 'Gin', 'Brandy']
+
+
+
+
+
+
+
+
+
+

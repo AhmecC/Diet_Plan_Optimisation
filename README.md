@@ -1,5 +1,6 @@
 ## Diet Plan Optimisation
 This is the back-end to an application that will return a list of recipes that maximises a specified calorie goal and macros (Protein, Carbs and Fat). You can specify your calorie goal and filter out recipes that include offensive ingredients (Dairy/Gluten etc...)
+> Recipe data isn't perfectly categoried, so offending ingredients may still be included
 
 ## Skills Used:
 In this project, I show proficiency  in **pandas** by effectively cleaning and manipulating the dataset to maximise the value gained. I leveraged **SQL** with sqlite3 to create a fast database to empower an efficient application. I showed my approach to an unfamiliar package **pulp**, showing how skillfully identified its capabilities to achieve my goal of optimisation.

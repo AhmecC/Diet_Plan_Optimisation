@@ -6,6 +6,7 @@ This is the back-end to an application that will return a list of recipes that m
 In this project, I show proficiency  in **pandas** by effectively cleaning and manipulating the dataset to maximise the value gained. I leveraged **SQL** with sqlite3 to create a fast database to empower an efficient application. I showed my approach to an unfamiliar package **pulp**, showing how skillfully identified its capabilities to achieve my goal of optimisation.
 
 ## Extra Information:
+- Dataset is from [Kaggle](https://www.kaggle.com/datasets/irkaal/foodcom-recipes-and-reviews)
 - To reduce clutter ```list_of_lists.txt``` includes all long lists of words
 - recipes without servings are median of category they're in
 - kcal and macros are adjusted to reflect 1 serving
